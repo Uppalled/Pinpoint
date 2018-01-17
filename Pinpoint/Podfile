@@ -1,0 +1,4 @@
+target 'Pinpoint' do
+use_frameworks!
+pod 'ARCL'
+end
